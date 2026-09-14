@@ -3,7 +3,7 @@ Automatically visualize docking results both with PyMol and Discovery Studio
 
 # Molecular Docking Automation & Visualization Suite
 
-[English](https://www.google.com/search?q=%23english) | [Türkçe](https://www.google.com/search?q=%23t%C3%BCrk%C3%A7e)
+[English] | [Türkçe]
 
 ---
 
